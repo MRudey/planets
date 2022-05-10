@@ -1,5 +1,8 @@
 - One of you create a repository
 - Share the repository with your partner
 - Both of you add some files, e.g. information about other planets and moons
-- Push the changes to your collaborative repository
+    - update your local repo with `git pull origin main`,
+    - make your changes and stage them with `git add`,
+    - commit your changes with `git commit -m`, and
+    - upload the changes to GitHub with `git push origin main`
 - Resolve merge conflicts, have a look at your partners commits
