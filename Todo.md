@@ -1,0 +1,5 @@
+- One of you create a repository
+- Share the repository with your partner
+- Both of you add some files, e.g. information about other planets and moons
+- Push the changes to your collaborative repository
+- Resolve merge conflicts, have a look at your partners commits
